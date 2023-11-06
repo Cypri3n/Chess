@@ -1,3 +1,9 @@
+# coding: utf-8
+
+'''
+Auteur :  Cyprien Venard
+'''
+
 import pygame
 
 
